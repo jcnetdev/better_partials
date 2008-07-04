@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'better_partials'
-  s.version = '1.0.20080704'
+  s.version = '1.0.200807042'
   s.date = '2008-07-04'
   
   s.summary = "Makes calling partials in views look better and more fun."
