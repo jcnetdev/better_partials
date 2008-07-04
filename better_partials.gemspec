@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.summary = "Makes calling partials in views look better and more fun."
   s.description = "Wrapper around render :partial that removes the need to use :locals, and allows blocks to be taken easily"
   
-  s.authors = ['Jacques Crocker']
+  s.authors = ['RailsJedi']
   s.email = 'railsjedi@gmail.com'
   s.homepage = 'http://www.railsjedi.com/posts/22'
   
