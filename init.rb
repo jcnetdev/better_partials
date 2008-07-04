@@ -1,1 +1,1 @@
-ActionView::Base.send :include, BetterPartials::Helpers
+require File.dirname(__FILE__) + "/rails/init"
