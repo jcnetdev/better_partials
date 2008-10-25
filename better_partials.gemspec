@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = 'better_partials'
-  s.version = '1.0.200807042'
-  s.date = '2008-07-04'
+  s.version = '1.1'
+  s.date = '2008-10-11'
   
   s.summary = "Makes calling partials in views look better and more fun."
   s.description = "Wrapper around render :partial that removes the need to use :locals, and allows blocks to be taken easily"

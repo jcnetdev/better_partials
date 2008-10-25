@@ -46,7 +46,8 @@ module BetterPartials
           :collection,
           :spacer_template,
           :object, 
-          :use_full_path
+          :use_full_path,
+          :as
         ]
         
         # cycle through and add these options directly to partial_options
