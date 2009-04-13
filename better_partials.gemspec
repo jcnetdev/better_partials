@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'better_partials'
-  s.version = '1.1.2'
+  s.version = '1.1.3'
   s.date = '2009-04-13'
   
   s.summary = "Makes calling partials in views look better and more fun."
@@ -14,8 +14,6 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--main", "README"]
   s.extra_rdoc_files = ["README"]
 
-  s.add_dependency 'rails', ['>= 2.1']
-  
   s.files = ["MIT-LICENSE",
              "README",
              "Rakefile",
