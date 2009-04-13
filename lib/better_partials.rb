@@ -87,3 +87,8 @@ module BetterPartials
     end
   end
 end
+
+
+if defined?(Rails) and defined?(ActionView)
+  ActionView::Base.send :include, BetterPartials::Helpers
+end
